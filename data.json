@@ -1,0 +1,318 @@
+{
+    "trueFalseQuestions": [
+        {
+            "question": "Thủ đô của Việt Nam là Hà Nội.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Sông Nile là con sông dài nhất thế giới.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Mặt trăng có bầu khí quyển.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Con người có 23 cặp nhiễm sắc thể.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Nước sôi ở nhiệt độ 100 độ C.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Kim tự tháp Giza là công trình kiến trúc cổ nhất trong Bảy kỳ quan thế giới cổ đại.",
+            "v": 0
+        },
+        {
+            "question": "Hành tinh Sao Hỏa có màu đỏ do sự hiện diện của rỉ sét.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Chim cánh cụt có thể bay.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Trái đất là hành tinh duy nhất trong hệ mặt trời có sự sống.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Số Pi (π) là một số hữu tỉ.",
+            "correctAnswer": 0
+        }
+    ],
+    "oneChoiceQuestions": [
+        {
+            "question": "Thủ đô của Việt Nam là:",
+            "answers": [
+                "Thành phố Hồ Chí Minh",
+                "Hà Nội",
+                "Đà Nẵng",
+                "Cần Thơ"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Ngôn ngữ chính thức của Brazil là:",
+            "answers": [
+                "Tiếng Tây Ban Nha",
+                "Tiếng Bồ Đào Nha",
+                "Tiếng Anh",
+                "Tiếng Pháp"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Ai là nhà văn của tác phẩm 'Nghệ thuật điện tử'?",
+            "answers": [
+                "George Orwell",
+                "Aldous Huxley",
+                "Isaac Asimov",
+                "William Gibson"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Đại dương lớn nhất trên trái đất là:",
+            "answers": [
+                "Đại Tây Dương",
+                "Thái Bình Dương",
+                "Ấn Độ Dương",
+                "Bắc Băng Dương"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Thành phố nào được biết đến là 'Thành phố hoa anh đào'?",
+            "answers": [
+                "Seoul",
+                "Tokyo",
+                "Osaka",
+                "Beijing"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Đâu là loài động vật có vòng đời có thể hoàn toàn biến đổi?",
+            "answers": [
+                "Châu chấu",
+                "Bướm",
+                "Chuồn chuồn",
+                "Nhện"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Thành phố nào là thủ đô của Pháp?",
+            "answers": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Rome"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Dòng sông nào là dòng sông dài nhất thế giới?",
+            "answers": [
+                "Amazon",
+                "Nile",
+                "Mississippi",
+                "Yangtze"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Thành phố nào là nơi tổ chức Olympic mùa hè 2024?",
+            "answers": [
+                "Rio de Janeiro",
+                "Tokyo",
+                "Paris",
+                "London"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Ai là tác giả của 'Người Máy Chiến Đấu'?",
+            "answers": [
+                "Philip K. Dick",
+                "Isaac Asimov",
+                "Arthur C. Clarke",
+                "H.G. Wells"
+            ],
+            "correctAnswer": 2
+        }
+    ],
+    "multipleChoiceQuestions": [
+        {
+            "question": "Những ngôn ngữ lập trình nào làm cho trình duyệt hiểu được?",
+            "answers": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP"
+            ],
+            "correctAnswer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Câu lệnh nào được sử dụng để khai báo biến trong JavaScript?",
+            "answers": [
+                "var",
+                "int",
+                "string",
+                "const"
+            ],
+            "correctAnswer": [
+                0,
+                3
+            ]
+        },
+        {
+            "question": "Trong CSS, thuộc tính nào được sử dụng để thay đổi màu nền của một phần tử?",
+            "answers": [
+                "background-color",
+                "color",
+                "font-size",
+                "border"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Câu lệnh nào sau đây là câu lệnh điều kiện trong JavaScript?",
+            "answers": [
+                "for",
+                "while",
+                "if",
+                "switch"
+            ],
+            "correctAnswer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Ngôn ngữ lập trình nào được sử dụng phổ biến trong việc phát triển ứng dụng di động?",
+            "answers": [
+                "Java",
+                "Python",
+                "Swift",
+                "C#"
+            ],
+            "correctAnswer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Ai là người sáng lập ra Facebook?",
+            "answers": [
+                "Bill Gates",
+                "Steve Jobs",
+                "Mark Zuckerberg",
+                "Jeff Bezos"
+            ],
+            "correctAnswer": [
+                2
+            ]
+        },
+        {
+            "question": "Ngày nào được coi là 'Ngày Quốc tế Phụ nữ'?",
+            "answers": [
+                "8/3",
+                "20/10",
+                "20/11",
+                "1/5"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Câu nào sau đây là một loại hình dữ liệu trong Python?",
+            "answers": [
+                "list",
+                "array",
+                "tuple",
+                "dictionary"
+            ],
+            "correctAnswer": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Núi cao nhất thế giới là?",
+            "answers": [
+                "Núi Everest",
+                "Núi Kilimanjaro",
+                "Núi Fuji",
+                "Núi McKinley"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Thủ đô của nước Ý là?",
+            "answers": [
+                "Rome",
+                "Milan",
+                "Venice",
+                "Florence"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        }
+    ],
+
+    "essayQuestions": [
+        {
+          "question": "Mô tả về quãng đời của Chúa Kito trước khi Ngài trở thành nhà lãnh đạo của nền văn minh Inca.",
+          "answer": ""
+        },
+        {
+          "question": "Trình bày các phương pháp phát triển ứng dụng di động phổ biến hiện nay và nhấn mạnh vào ưu điểm và nhược điểm của mỗi phương pháp.",
+          "answer": ""
+        },
+        {
+          "question": "Nêu ý nghĩa và vai trò của Cuộc Cách mạng Công nghiệp trong lịch sử phát triển của loài người.",
+          "answer": ""
+        },
+        {
+          "question": "Phân tích sự khác biệt giữa marketing truyền thống và marketing kỹ thuật số, cùng với ví dụ minh họa cho mỗi loại marketing.",
+          "answer": ""
+        },
+        {
+          "question": "Mô tả quá trình hình thành và sự phát triển của Internet từ những ngày đầu cho đến ngày nay.",
+          "answer": ""
+        },
+        {
+          "question": "So sánh và đối chiếu giữa chủ nghĩa tư bản và chủ nghĩa xã hội, với nhấn mạnh vào cách mỗi hệ thống ảnh hưởng đến xã hội và kinh tế.",
+          "answer": ""
+        },
+        {
+          "question": "Trình bày những biến đổi về cách mạng công nghệ thông tin và tác động của chúng đối với cuộc sống hàng ngày của con người.",
+          "answer": ""
+        },
+        {
+          "question": "Mô tả các ứng dụng tiềm năng của trí tuệ nhân tạo trong tương lai và ảnh hưởng của chúng đối với nền kinh tế và xã hội.",
+          "answer": ""
+        },
+        {
+          "question": "Phân tích tác động của biến đổi khí hậu đối với môi trường sống và cách mà các quốc gia và tổ chức đang phản ứng trước thách thức này.",
+          "answer": ""
+        },
+        {
+          "question": "Trình bày các biện pháp cần thực hiện để giảm bớt ô nhiễm môi trường và bảo vệ nguồn tài nguyên tự nhiên cho thế hệ tương lai.",
+          "answer": ""
+        }
+      ]
+}
